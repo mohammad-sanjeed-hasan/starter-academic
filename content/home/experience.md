@@ -22,24 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Contractual Lecturer
+    company: Bangladesh University of Business and Technology (BUBT)
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Dhaka, Bangladesh
+    date_start: '2017-06-05'
+    date_end: '2017-10-05'
+    description:
+  - title: Research Associate
+    company: 
+    company_url: ''
+    location: Dhaka, Bangladesh
+    date_start: '2015-07-01'
+    date_end: '2017-06-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+
+        * Project Title: Flow Instability with Convective Heat Transfer through a Rotating Curved Micro-Channel with Strong Curvature.
+        * Supervised By: Prof. Dr. Rabindra Nath Mondal, Dept. of Mathematics, Jagannath University, Dhaka, Bangladesh.
+        * Funded by: Bangladesh Ministry of Education (MoEdu).
+  - title: Research Associate
+    company: 
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Dhaka, Bangladesh
+    date_start: '2017-07-01'
+    date_end: '2018-06-01'
+    description: |2-
+
+        * Project Title: Flow Transitions with Effects of Secondary Flow on Convective Heat Transfer through a Rotating Curved Channel.
+        * Supervised By: Prof. Dr. Rabindra Nath Mondal, Dept. of Mathematics, Jagannath University, Dhaka, Bangladesh.
+        * Funded by: Bangladesh Ministry of Science and Technology (MOST).
 ---
