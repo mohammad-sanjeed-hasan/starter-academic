@@ -33,7 +33,7 @@ education:
   - course: Master of Science (M.Sc.) in Applied Mathematics
     institution: Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj, Bangladesh
     year: 2017
-  - course: Bachelor of Science (B.Sc. (hons.)) in Applied Mathematics
+  - course: Bachelor of Science (B.Sc.) in Mathematics
     institution: Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj, Bangladesh
     year: 2015
   - course: Higher Secondary Certificate
